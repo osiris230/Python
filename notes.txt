@@ -1,0 +1,16 @@
+- POO est un paradigme : c'est une façon de consevoir des programmes en utilisant
+- les concepts de classes et d'objets
+    - Classes    : Plan de conception, genre (humain, Animal, Chien)
+    - Objets     : Instanciation dune classe, ex: création d'un humain 
+                  - ex: personne
+    - Attributs  : Variables de classe, ex : nom, prenom, age
+    - Propriètés : C'est une manière de manipuler les attributs 
+                  - (lecture seul, accessible en modification en dehors de la classe)
+    - Méthodes   : Fonction de classe (ex: humain : boire(), manger(), dormir())
+    - Méthodes de classe : à venir
+    - Méthodes Statiques : Fonction d'une classe indépendante
+    - Héritage   : Classe fille qui hérite d'une classe mère.
+              ex : classe Chat hérite de la classe Animal, classe Homme hérite de la classe Humain etc.
+    - Encapsulation : Prétection des attributs en les rendent privés à l'extérieur de la classe.
+        Méthodes:
+            - création des accesseurs( getters, setters, deleters)
